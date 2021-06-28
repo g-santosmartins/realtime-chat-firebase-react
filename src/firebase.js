@@ -7,7 +7,7 @@ import "firebase/storage";
 
 
 var firebaseConfig = {
-    // paste your auth config here. ;D
+    // paste your Auth from https://firebase.google.com/?hl=pt-br here. ;D
   };
   
   // Initialize Firebase
