@@ -34,10 +34,7 @@ Local React.js development server:
 $ git clone https://github.com/g-santosmartins/react-slack-clone.git
 
 ```
-
-```bash
-$ cd letmeask
-```
+Enter by using the CD command if you will and then: 
 
 Follow the steps below:
 ```bash
