@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center" >Project Slack React.js Clone</h1>
+  <h1 align="center" >Realtime chat with Firebase and React </h1>
 </p>
 
 ## 🧪 How does it work? Check it out!
